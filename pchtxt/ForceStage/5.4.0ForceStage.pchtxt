@@ -1,0 +1,274 @@
+@nsobid-32A8F031861B76DF3D1080E6A52FE0B0
+@flag offset_shift 0x100
+
+// One Player Private Battles [OatmealDome]
+@disabled
+00371E80 09000014
+00379340 09000014
+014C1CE8 21008052
+014DEFD0 1F2003D5
+014DFB14 21008052
+
+// No Map Error [Zewia]
+@disabled
+00376BF0 09000014
+
+// Force Stage to The Reef [skmtie]
+@disabled
+003767D0 00008052
+003767D4 C0035FD6
+
+// Force Stage to Musselforge Fitness [skmtie]
+@disabled
+003767D0 20008052
+003767D4 C0035FD6
+
+// Force Stage to Starfish Mainstage [skmtie]
+@disabled
+003767D0 40008052
+003767D4 C0035FD6
+
+// Force Stage to Sturgeon Shipyard [skmtie]
+@disabled
+003767D0 60008052
+003767D4 C0035FD6
+
+// Force Stage to Inkblot Art Academy [skmtie]
+@disabled
+003767D0 80008052
+003767D4 C0035FD6
+
+// Force Stage to Humpback Pump Track [skmtie]
+@disabled
+003767D0 A0008052
+003767D4 C0035FD6
+
+// Force Stage to Manta Maria [skmtie]
+@disabled
+003767D0 C0008052
+003767D4 C0035FD6
+
+// Force Stage to Port Mackerel [skmtie]
+@disabled
+003767D0 E0008052
+003767D4 C0035FD6
+
+// Force Stage to Moray Towers [skmtie]
+@disabled
+003767D0 00018052
+003767D4 C0035FD6
+
+// Force Stage to Snapper Canal [skmtie]
+@disabled
+003767D0 20018052
+003767D4 C0035FD6
+
+// Force Stage to Kelp Dome [skmtie]
+@disabled
+003767D0 40018052
+003767D4 C0035FD6
+
+// Force Stage to Blackbelly Skatepark [skmtie]
+@disabled
+003767D0 60018052
+003767D4 C0035FD6
+
+// Force Stage to Shellendorf Institute [skmtie]
+@disabled
+003767D0 80018052
+003767D4 C0035FD6
+
+// Force Stage to MakoMart [skmtie]
+@disabled
+003767D0 A0018052
+003767D4 C0035FD6
+
+// Force Stage to Walleye Warehouse [skmtie]
+@disabled
+003767D0 C0018052
+003767D4 C0035FD6
+
+// Force Stage to Arowana Mall [skmtie]
+@disabled
+003767D0 E0018052
+003767D4 C0035FD6
+
+// Force Stage to Camp Triggerfish [skmtie]
+@disabled
+003767D0 00028052
+003767D4 C0035FD6
+
+// Force Stage to Piranha Pit [skmtie]
+@disabled
+003767D0 20028052
+003767D4 C0035FD6
+
+// Force Stage to Goby Arena [skmtie]
+@disabled
+003767D0 40028052
+003767D4 C0035FD6
+
+// Force Stage to New Albacore Hotel [skmtie]
+@disabled
+003767D0 60028052
+003767D4 C0035FD6
+
+// Force Stage to Wahoo World [skmtie]
+@disabled
+003767D0 80028052
+003767D4 C0035FD6
+
+// Force Stage to Ancho-V Games [skmtie]
+@disabled
+003767D0 A0028052
+003767D4 C0035FD6
+
+// Force Stage to Windmill House on the Pearlie [skmtie]
+@disabled
+003767D0 800C8052
+003767D4 C0035FD6
+
+// Force Stage to Wayslide Cool [skmtie]
+@disabled
+003767D0 A00C8052
+003767D4 C0035FD6
+
+// Force Stage to The Secret of S.P.L.A.T. [skmtie]
+@disabled
+003767D0 C00C8052
+003767D4 C0035FD6
+
+// Force Stage to Goosponge [skmtie]
+@disabled
+003767D0 E00C8052
+003767D4 C0035FD6
+
+// Force Stage to Cannon Fire Pearl [skmtie]
+@disabled
+003767D0 200D8052
+003767D4 C0035FD6
+
+// Force Stage to Zone of Glass [skmtie]
+@disabled
+003767D0 400D8052
+003767D4 C0035FD6
+
+// Force Stage to Fancy Spew [skmtie]
+@disabled
+003767D0 600D8052
+003767D4 C0035FD6
+
+// Force Stage to Grapplink Girl [skmtie]
+@disabled
+003767D0 800D8052
+003767D4 C0035FD6
+
+// Force Stage to Zappy Longshocking [skmtie]
+@disabled
+003767D0 A00D8052
+003767D4 C0035FD6
+
+// Force Stage to The Bunker Games [skmtie]
+@disabled
+003767D0 C00D8052
+003767D4 C0035FD6
+
+// Force Stage to A Swiftly Tilting Balance [skmtie]
+@disabled
+003767D0 E00D8052
+003767D4 C0035FD6
+
+// Force Stage to The Switches [skmtie]
+@disabled
+003767D0 000E8052
+003767D4 C0035FD6
+
+// Force Stage to Sweet Valley Tentacles [skmtie]
+@disabled
+003767D0 200E8052
+003767D4 C0035FD6
+
+// Force Stage to The Bouncey Twins [skmtie]
+@disabled
+003767D0 400E8052
+003767D4 C0035FD6
+
+// Force Stage to Railway Chillin' [skmtie]
+@disabled
+003767D0 600E8052
+003767D4 C0035FD6
+
+// Force Stage to Gusher Towns [skmtie]
+@disabled
+003767D0 800E8052
+003767D4 C0035FD6
+
+// Force Stage to The Maze Dasher [skmtie]
+@disabled
+003767D0 A00E8052
+003767D4 C0035FD6
+
+// Force Stage to Flooders in the Attic [skmtie]
+@disabled
+003767D0 C00E8052
+003767D4 C0035FD6
+
+// Force Stage to The Splat in our Zones [skmtie]
+@disabled
+003767D0 E00E8052
+003767D4 C0035FD6
+
+// Force Stage to The Ink is Spreading [skmtie]
+@disabled
+003767D0 000F8052
+003767D4 C0035FD6
+
+// Force Stage to Bridge to Tentaswitchia [skmtie]
+@disabled
+003767D0 200F8052
+003767D4 C0035FD6
+
+// Force Stage to The Chronicles of Rolonium [skmtie]
+@disabled
+003767D0 400F8052
+003767D4 C0035FD6
+
+// Force Stage to Furler in the Ashes [skmtie]
+@disabled
+003767D0 600F8052
+003767D4 C0035FD6
+
+// Force Stage to MC.Princess Diaries [skmtie]
+@disabled
+003767D0 800F8052
+003767D4 C0035FD6
+
+// Force Stage to Spawning Grounds [skmtie]
+@disabled
+003767D0 00718252
+003767D4 C0035FD6
+00376BF0 09000014
+
+// Force Stage to Marooner's Bay [skmtie]
+@disabled
+003767D0 20718252
+003767D4 C0035FD6
+00376BF0 09000014
+
+// Force Stage to Lost Outpost [skmtie]
+@disabled
+003767D0 40718252
+003767D4 C0035FD6
+00376BF0 09000014
+
+// Force Stage to Salmonid Smokeyard [skmtie]
+@disabled
+003767D0 60718252
+003767D4 C0035FD6
+00376BF0 09000014
+
+// Force Stage to Ruins of Ark Polaris [skmtie]
+@disabled
+003767D0 80718252
+003767D4 C0035FD6
+00376BF0 09000014
