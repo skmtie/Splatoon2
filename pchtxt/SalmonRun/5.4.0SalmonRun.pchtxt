@@ -1,0 +1,158 @@
+@nsobid-32A8F031861B76DF3D1080E6A52FE0B0
+@flag offset_shift 0x100
+
+// One Player Private Battles [OatmealDome]
+@disabled
+00371E80 09000014
+00379340 09000014
+014C1CE8 21008052
+014DEFD0 1F2003D5
+014DFB14 21008052
+
+// All Weapons in Salmon Run [container12345]
+@disabled
+00086600 3F0000B9
+
+// Infinite Specials in Salmon Run [tkgling]
+@disabled
+029EFA30 FF000000
+
+// Change Raspy Voice to Mr. Grizz in Salmon Run [tkgling]
+@disabled
+006FF3AC 20008052
+0074F5F4 20008052
+0074F810 20008052
+
+// Enable Mr. Grizz's Comments in Salmon Run [container12345]
+@disabled
+007462F8 1F2003D5
+0074F618 1F2003D5
+
+// One Operation Event Occurs in Salmon Run [container12345]
+@disabled
+0075D0C4 1F2003D5
+
+// Get Golden Egg Every Frame in Salmon Run [tkgling]
+@disabled
+0073C604 802E0190
+0073C608 007047F9
+0073C60C 000040F9
+0073C610 017843B9
+0073C614 21040011
+0073C618 017803B9
+0073C61C C0035FD6
+
+// Get 999 Golden Eggs and 9999 Power Eggs by Signal in Salmon Run [tkgling]
+@disabled
+0104C94C 00E60090
+0104C950 007047F9
+0104C954 000040F9
+0104C958 E17C8052
+0104C95C 017803B9
+0104C960 017C03B9
+0104C964 E1E18452
+0104C968 017003B9
+0104C96C C0035FD6
+
+// Get 999 Golden Eggs by Signal in Salmon Run [tkgling]
+@disabled
+0104C94C 00E60090
+0104C950 007047F9
+0104C954 000040F9
+0104C958 E17C8052
+0104C95C 017803B9
+0104C960 017C03B9
+0104C964 C0035FD6
+
+// Get 9999 Power Eggs by Signal in Salmon Run [tkgling]
+@disabled
+0104C94C 00E60090
+0104C950 007047F9
+0104C954 000040F9
+0104C958 E1E18452
+0104C95C 017003B9
+0104C960 C0035FD6
+
+// Salmonid and Boss Salmonid Drops 10 Golden Eggs in Salmon Run [tkgling]
+@disabled
+0066739C 40018052
+
+// Snatcher Drops 10 Golden Eggs in Salmon Run [tkgling]
+@disabled
+0068D680 40018052
+
+// Chinook Drops 10 Golden Eggs in Salmon Run [tkgling]
+@disabled
+006CF59C 40018052
+
+// Fog Goldie Drops 10 Golden Eggs in Salmon Run [tkgling]
+@disabled
+006AB0BC 41008052
+006AB0D0 01400AB9
+
+// Fix NT Geyser Position to A in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 010040B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to B in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 010840B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to C in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 011040B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to D in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 011840B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to E in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 012040B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to F in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 012840B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to G in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 013040B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to H in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 013840B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// Fix NT Geyser Position to I in Salmon Run [tkgling]
+@disabled
+006EF6E8 01C043B9
+006EF6EC 014040B9
+006EF6F0 010000B9
+006EF6F4 02000014
+
+// SeedHack [tkgling]
+@disabled
+0037F340
