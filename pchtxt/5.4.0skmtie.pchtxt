@@ -7,7 +7,7 @@
 00520224 C0035FD6
 
 // Charger 9999 [skmtie]
-@enabled
+@disabled
 004C5364 A0E6A752
 004C5368 C0035FD6
 
@@ -126,32 +126,32 @@
 004B21C0 C0035FD6
 
 // Shooter Paint Through Walls [skmtie]
-@enabled
+@disabled
 00527548 20008052
 0052754C C0035FD6
 
 // Blaster Paint Through Walls [skmtie]
-@enabled
+@disabled
 00465088 20008052
 0046508C C0035FD6
 
 // Roller Paint Through Walls [skmtie]
-@enabled
+@disabled
 0050F350 20008052
 0050F354 C0035FD6
 
 // Charger Paint Through Walls [skmtie]
-@enabled
+@disabled
 004C7AC8 20008052
 004C7ACC C0035FD6
 
 // Slosher Paint Through Walls [skmtie]
-@enabled
+@disabled
 0067A96C 20008052
 0067A970 C0035FD6
 
 // Weapon Paint Through Walls [skmtie]
-@enabled
+@disabled
 00465088 20008052
 0046508C C0035FD6
 004C7AC8 20008052
@@ -164,7 +164,7 @@
 0067A970 C0035FD6
 
 // Splash Bomb Paint Through Walls [skmtie]
-@enabled
+@disabled
 0046F418 20008052
 0046F41C C0035FD6
 
@@ -185,9 +185,23 @@
 0045FCA4 C0035FD6
 
 // Roller Increase Collision Radius [skmtie]
-@enabled
+@disabled
 0050F430 C0035FD6
 
 // Slosher Increase Collision Radius [skmtie]
-@enabled
+@disabled
 0052C020 C0035FD6
+
+// Clear Paint by Signal [skmtie]
+@disabled
+0104C94C FF8300D1
+0104C950 FD7B01A9
+0104C954 FD430091
+0104C958 E81F8052
+0104C95C E0230091
+0104C960 E1031F2A
+0104C964 E8230039
+0104C968 7BE2FD97
+0104C96C FD7B41A9
+0104C970 FF830091
+0104C974 C0035FD6
