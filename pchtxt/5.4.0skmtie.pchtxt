@@ -1,6 +1,80 @@
 @nsobid-32A8F031861B76DF3D1080E6A52FE0B0
 @flag offset_shift 0x100
 
+// Shooter Wall Penetrate [skmtie]
+@disabled
+00527548 20008052
+0052754C C0035FD6
+
+// Blaster Wall Penetrate [skmtie]
+@disabled
+00465088 20008052
+0046508C C0035FD6
+
+// Roller Wall Penetrate [skmtie]
+@disabled
+0050F350 20008052
+0050F354 C0035FD6
+
+// Charger Wall Penetrate [skmtie]
+@disabled
+004C7AC8 20008052
+004C7ACC C0035FD6
+
+// Weapon Wall Penetrate [skmtie]
+@disabled
+00465088 20008052
+0046508C C0035FD6
+004C7AC8 20008052
+004C7ACC C0035FD6
+0050F350 20008052
+0050F354 C0035FD6
+00527548 20008052
+0052754C C0035FD6
+
+// Splash Bomb Wall Penetrate [skmtie]
+@disabled
+0046F418 20008052
+0046F41C C0035FD6
+
+// Weapon Sphere Penetrate [skmtie]
+@disabled
+0045EC78 C0035FD6
+
+// Weapon Capsule Penetrate [skmtie]
+@disabled
+0045F280 C0035FD6
+
+// Weapon Box Penetrate [skmtie]
+@disabled
+0045F8C4 C0035FD6
+
+// Weapon Cylinder Penetrate [skmtie]
+@disabled
+0045FCA4 C0035FD6
+
+// Roller Increase Collision Radius [skmtie]
+@disabled
+0050F430 C0035FD6
+
+// Slosher Increase Collision Radius [skmtie]
+@disabled
+0052C020 C0035FD6
+
+// Clear Paint by Signal [skmtie]
+@disabled
+0104C94C FF8300D1
+0104C950 FD7B01A9
+0104C954 FD430091
+0104C958 E81F8052
+0104C95C E0230091
+0104C960 E1031F2A
+0104C964 E8230039
+0104C968 7BE2FD97
+0104C96C FD7B41A9
+0104C970 FF830091
+0104C974 C0035FD6
+
 // Shooter 9999 [skmtie]
 @disabled
 00520220 A0E6A752
@@ -124,84 +198,3 @@
 004B2170 C0035FD6
 004B21BC A0E6A752
 004B21C0 C0035FD6
-
-// Shooter Paint Through Walls [skmtie]
-@disabled
-00527548 20008052
-0052754C C0035FD6
-
-// Blaster Paint Through Walls [skmtie]
-@disabled
-00465088 20008052
-0046508C C0035FD6
-
-// Roller Paint Through Walls [skmtie]
-@disabled
-0050F350 20008052
-0050F354 C0035FD6
-
-// Charger Paint Through Walls [skmtie]
-@disabled
-004C7AC8 20008052
-004C7ACC C0035FD6
-
-// Slosher Paint Through Walls [skmtie]
-@disabled
-0067A96C 20008052
-0067A970 C0035FD6
-
-// Weapon Paint Through Walls [skmtie]
-@disabled
-00465088 20008052
-0046508C C0035FD6
-004C7AC8 20008052
-004C7ACC C0035FD6
-0050F350 20008052
-0050F354 C0035FD6
-00527548 20008052
-0052754C C0035FD6
-0067A96C 20008052
-0067A970 C0035FD6
-
-// Splash Bomb Paint Through Walls [skmtie]
-@disabled
-0046F418 20008052
-0046F41C C0035FD6
-
-// Paint Through Spheres [skmtie]
-@disabled
-0045EC78 C0035FD6
-
-// Paint Through Capsules [skmtie]
-@disabled
-0045F280 C0035FD6
-
-// Paint Through Boxes [skmtie]
-@disabled
-0045F8C4 C0035FD6
-
-// Paint Through Cylinders [skmtie]
-@disabled
-0045FCA4 C0035FD6
-
-// Roller Increase Collision Radius [skmtie]
-@disabled
-0050F430 C0035FD6
-
-// Slosher Increase Collision Radius [skmtie]
-@disabled
-0052C020 C0035FD6
-
-// Clear Paint by Signal [skmtie]
-@disabled
-0104C94C FF8300D1
-0104C950 FD7B01A9
-0104C954 FD430091
-0104C958 E81F8052
-0104C95C E0230091
-0104C960 E1031F2A
-0104C964 E8230039
-0104C968 7BE2FD97
-0104C96C FD7B41A9
-0104C970 FF830091
-0104C974 C0035FD6
